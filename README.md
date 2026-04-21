@@ -1,2 +1,2 @@
 # Amazon-WebApp-Project
-Made an Amazon Website using HTML &amp; CSS. 
+Made an Amazon Website using HTML, CSS, JS. 
