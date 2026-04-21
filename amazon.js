@@ -25,7 +25,7 @@ searchInput.addEventListener("keyup", () => {
 });
 
 
-// HOVER EFFECT (JS-based interaction)
+// HOVER EFFECT 
 products.forEach((product) => {
     product.addEventListener("mouseover", () => {
         product.style.transform = "scale(1.05)";
